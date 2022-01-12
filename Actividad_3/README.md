@@ -1,5 +1,8 @@
 # How to use Script
 
+# report
+the report for this activity is located within this directory and contains the full name listed in canvas for ease
+
 ### setup
 The script is expecting a dataset located in 
 ```
