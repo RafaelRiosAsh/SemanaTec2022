@@ -1,6 +1,6 @@
 # How to use Script
 
-# report
+### report
 the report for this activity is located within this directory and contains the full name listed in canvas for ease
 
 ### setup
